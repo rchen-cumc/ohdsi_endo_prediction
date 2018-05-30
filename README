@@ -1,0 +1,5 @@
+## Thursday May 31st
+### Predicting Endometriosis Diagnosis using the OMOP CDM and the {PLP} module in R
+
+Use query_radak.R to obtain data from Radak
+Use predict_endo.R to write code using {PLP}
