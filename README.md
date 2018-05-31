@@ -1,5 +1,6 @@
+{PLP} package for predicting endometriosis
+==========================================
+- OHDSI Bootcamp - Thursday May 31st
+- Google Doc for Manuscript: https://bit.ly/2LNti1M
 
-OHDSI Bootcamp - {PLP} package for predicting endometriosis
-===========================================================
--Thursday May 31st
-- https://bit.ly/2LNti1M
+
